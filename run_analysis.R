@@ -6,7 +6,6 @@
 #       (3) Uses descriptive activity names to name the activities in the data set
 #       (4) Appropriately labels the data set with descriptive variable names. 
 #       (5) Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
-# Author: Ashraf Syed
 # Date : 07/27/2014
 
 # Initial prep work includes 
