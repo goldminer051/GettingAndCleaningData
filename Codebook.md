@@ -30,3 +30,11 @@ Here is an explanation of how "run_analysis.R" script file works:
 
 (10) Finally, tidy data set (dsetAllData) and computed mean data set (dsetMeanData) are written to a csv file in the working directory. 
 
+Here are the descriptive activity names used in the tidy data set:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
