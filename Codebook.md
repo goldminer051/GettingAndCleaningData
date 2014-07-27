@@ -33,8 +33,13 @@ Here is an explanation of how "run_analysis.R" script file works:
 Here are the descriptive activity names used in the tidy data set:
 
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
